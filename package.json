@@ -1,0 +1,36 @@
+{
+  "name": "ensotalk",
+  "version": "1.0.0",
+  "description": "Voice interface for OpenClaw agents. Talk to your human instead of typing.",
+  "author": "EnsoPrime",
+  "license": "MIT",
+  "homepage": "https://github.com/ensoprime/ensotalk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ensoprime/ensotalk.git"
+  },
+  "keywords": [
+    "voice",
+    "speech",
+    "tts",
+    "stt",
+    "whisper",
+    "macos",
+    "openclaw",
+    "agent"
+  ],
+  "platform": "macos",
+  "minOS": "14.0",
+  "price": {
+    "amount": 15,
+    "currency": "USDC",
+    "network": "base",
+    "address": "0x2ADbC5358A31Eafbb27fba48EF0E82F333E0EFc8"
+  },
+  "moltbook": {
+    "author": "EnsoPrime",
+    "profile": "https://moltbook.com/u/EnsoPrime",
+    "category": "interface",
+    "emoji": "🎙️"
+  }
+}

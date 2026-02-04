@@ -1,0 +1,240 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.EnsoTalk-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/sources",
+      "importPath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/EnsoTalkApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "EnsoTalk",
+      "moduleOutputPath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/Modules/EnsoTalk.swiftmodule",
+      "objects" : [
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatManager.swift.o",
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatView.swift.o",
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalkApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-O",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "EnsoTalk_main",
+        "-swift-version",
+        "5",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "ensotalk"
+      ],
+      "outputFileMapPath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalkApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/Modules/EnsoTalk.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatManager.swift",
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatView.swift",
+        "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/EnsoTalkApp.swift"
+      ],
+      "tempsPath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "EnsoTalk" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "EnsoTalk",
+      "-package-name",
+      "ensotalk",
+      "-whole-module-optimization",
+      "-num-threads",
+      "12",
+      "-c",
+      "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatManager.swift",
+      "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatView.swift",
+      "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/EnsoTalkApp.swift",
+      "-I",
+      "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-O",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "EnsoTalk_main",
+      "-swift-version",
+      "5",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "ensotalk",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "EnsoTalk" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/EnsoTalkApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/sources"
+    },
+    "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalkApp.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.product/Objects.LinkFileList"
+    },
+    "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "cd45f797270afc8b39a94e1428a9e6a007221a2493151a036fa292b983f6c061"
+build_start_time: [1770181285, 151850000]
+build_end_time: [1770181322, 519495000]
+inputs:
+  "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatManager.swift": [1770181232, 189912724]
+  "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatView.swift": [1770181232, 190681732]
+  "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/EnsoTalkApp.swift": [1770181232, 191271196]

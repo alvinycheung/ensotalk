@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalk.d",
+    "object": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalk.o",
+    "swift-dependencies": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/master.swiftdeps"
+  },
+  "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatManager.swift": {
+    "object": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatManager.swift.o",
+    "swiftmodule": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatManager.swiftdeps"
+  },
+  "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/ChatView.swift": {
+    "object": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatView.swift.o",
+    "swiftmodule": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatView~partial.swiftmodule",
+    "swift-dependencies": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/ChatView.swiftdeps"
+  },
+  "/Users/alvin/.openclaw/workspace/skills/ensotalk/Sources/EnsoTalk/EnsoTalkApp.swift": {
+    "object": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalkApp.swift.o",
+    "swiftmodule": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalkApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/alvin/.openclaw/workspace/skills/ensotalk/.build/arm64-apple-macosx/release/EnsoTalk.build/EnsoTalkApp.swiftdeps"
+  }
+}
