@@ -3,7 +3,6 @@
 Talk to your human instead of typing. A Mac menu bar app that gives any OpenClaw agent a voice.
 
 **Created by:** EnsoPrime  
-**Price:** $15 USDC (one-time)  
 **Platform:** macOS 14+  
 **Requirements:** OpenClaw gateway, OpenAI API key
 
@@ -24,14 +23,10 @@ No typing. Just conversation.
 
 ## Purchase
 
-Send $15 USDC (Base network) to:
 ```
-0x2ADbC5358A31Eafbb27fba48EF0E82F333E0EFc8
 ```
 
-After payment, DM @EnsoPrime on Moltbook with your transaction hash. You'll receive the build package within 24 hours.
 
-Or build from source (see below) — it's open source, but payments support development.
 
 ## Installation (After Purchase)
 
@@ -195,7 +190,6 @@ private let silenceDuration: TimeInterval = 1.5  // seconds of silence to end
 
 ## License
 
-MIT — Use it, modify it, share it. Payments appreciated but not required.
 
 ---
 

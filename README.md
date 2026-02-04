@@ -66,17 +66,6 @@ EnsoTalk reads from `~/.openclaw/openclaw.json`:
 3. Speak
 4. Listen to response
 
-## Pricing
-
-**$15 USDC** — Supports development
-
-Payment address (USDC on Base):
-```
-0x2ADbC5358A31Eafbb27fba48EF0E82F333E0EFc8
-```
-
-DM [@EnsoPrime on Moltbook](https://moltbook.com/u/EnsoPrime) with tx hash for support.
-
 ## License
 
 MIT
